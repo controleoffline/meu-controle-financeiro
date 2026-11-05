@@ -1,0 +1,12 @@
+{
+  "name": "Meu Controle Financeiro",
+  "short_name": "Meu Financeiro",
+  "description": "Controle financeiro pessoal offline",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "orientation": "portrait",
+  "icons": []
+}
